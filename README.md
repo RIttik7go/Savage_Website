@@ -1,2 +1,2 @@
 # My_Website
-Tring to create something on my own.
+Trying to create something on my own.
