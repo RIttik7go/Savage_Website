@@ -3,6 +3,6 @@ Trying to create something on my own.
 playing with git!
 love you!
 Python!
-#Confict
-Doing for knowing.
+#Conflict
+Doing for understanding
 This is locally.
