@@ -6,3 +6,5 @@ Python!
 #Conflict
 Doing for understanding
 This is locally.
+#Purpose
+To provide example on how to use git and github togather
